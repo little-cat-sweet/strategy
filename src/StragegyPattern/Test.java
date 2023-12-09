@@ -3,6 +3,7 @@ package StragegyPattern;
 public class Test {
 
     public static void main(String[] args) {
+
         HappyDock happyDock = new HappyDock();
         happyDock.display();
         happyDock.performFly();
